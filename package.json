@@ -1,0 +1,20 @@
+{
+  "name": "my-first-static-web-app",
+  "version": "1.0.0",
+  "description": "Trying stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomVanHauwaert/my-first-static-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomVanHauwaert/my-first-static-web-app/issues"
+  },
+  "homepage": "https://github.com/TomVanHauwaert/my-first-static-web-app#readme"
+}
